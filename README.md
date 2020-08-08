@@ -34,7 +34,7 @@ such a way that we disvover new information from it.
 
 **Application of this knowledge:**
 
-    One application would be to perform further studies of a particular country that seemed
+One application would be to perform further studies of a particular country that seemed
 to be doing quite well in a specific cause of death group. We noted that France seemed to be
 a geographic outlier due to its lower cardiovascular cause of death compared to its neighboring
 European countries. Further research could dive into lifestyle habbits, purity of air and water,
