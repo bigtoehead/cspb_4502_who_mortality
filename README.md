@@ -1,15 +1,19 @@
-Project Title: World Heath Organization Mortality Investigations
+#Project Title:
+World Heath Organization Mortality Investigations
 
-Team Members: Bryan Arment, Jeff Dank, Tony Pearo
+#Team Members:
+Bryan Arment, Jeff Dank, Tony Pearo
 
-Description of the project: 
+#Description of the project:
+
    We stumbled upon the World Health Organization's database of mortality. This database
 is how the WHO keeps track of causes of death from countries that choose to report that
 information to the WHO. Our particular dataset had over 3.5 million entries, with over
 9000 various causes of death. Our goals was to clean up the dataset and organize it in 
 such a way that we disvover new information from it. 
 
-Summary of the questions sought and the answers:
+#Summary of the questions sought and the answers:
+
     Question 1) How does mortality present itself in countries across the world?
     Answer   1) It seems to cluster together based upon how develped the nation is.
               With our K-means of k=3 analysis, this basic trend appeared to us. 
@@ -26,7 +30,7 @@ Summary of the questions sought and the answers:
                 makers to stear their country in a more desired direction. 
 
 
-Application of this knowledge:
+#Application of this knowledge:
     One application would be to perform further studies of a particular country that seemed
 to be doing quite well in a specific cause of death group. We noted that France seemed to be
 a geographic outlier due to its lower cardiovascular cause of death compared to its neighboring
@@ -34,8 +38,10 @@ European countries. Further research could dive into lifestyle habbits, purity o
 and heath care policies. This could help other countries drive down their cardiovascular rate of 
 death.
 
-Link to the video demonstration: https://youtu.be/BIjq87yVy-8 or https://github.com/bigtoehead/cspb_4502_who_mortality/blob/master/Group3_MortalityInvestigation_Part6_Video.mp4
+#Link to the video demonstration:
+https://youtu.be/BIjq87yVy-8 or https://github.com/bigtoehead/cspb_4502_who_mortality/blob/master/Group3_MortalityInvestigation_Part6_Video.mp4
 
-Link to the final project paper: https://github.com/bigtoehead/cspb_4502_who_mortality/blob/master/Group3_MortalityInvestigation_Part4.pdf
+#Link to the final project paper:
+https://github.com/bigtoehead/cspb_4502_who_mortality/blob/master/Group3_MortalityInvestigation_Part4.pdf
 
 
